@@ -4,4 +4,4 @@ I'm a Linux user and open-source enthusiast. I'm not an extreme programmer who p
 **🌏 Web Browser:** [Vivaldi](https://vivaldi.com/)  
 **Text Editor:** [Visual Studio Code by Microsoft](https://code.visualstudio.com/)  
 **🐧 Linux distro and Desktop Environment:** [Manjaro KDE Plasma edition](https://manjaro.org/downloads/official/kde/)  
-[![ARTech-7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARTech-7)
+[![ARTech-7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARTech-7)]
