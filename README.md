@@ -11,4 +11,4 @@ I'm a Linux user and open-source enthusiast. I'm not a really professional aweso
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/ARCyberLinux?color=orange&label=My%20Karma%20on%20Reddit&style=for-the-badge)  
 <img height="15" width="15" src="http://simpleicons.org/icons/discord.svg"> Discord: A Linux User#3063
   
-[![ARTech-7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARTech-7)](https://github.com/ARTech-7)
+[![alinuxuser1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alinuxuser1)](https://github.com/alinuxuser1)
