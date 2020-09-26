@@ -9,6 +9,5 @@ I'm a Linux user and open-source enthusiast. I'm not a really professional aweso
   
 [<img height="16" width="16" src="http://simpleicons.org/icons/reddit.svg"> Follow me on Reddit](https://www.reddit.com/u/ARCyberLinux)  
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/ARCyberLinux?color=orange&label=My%20Karma%20on%20Reddit&style=for-the-badge)  
-<img height="15" width="15" src="http://simpleicons.org/icons/discord.svg"> Discord: A Linux User#3063
   
 [![alinuxuser1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alinuxuser1)](https://github.com/alinuxuser1)
