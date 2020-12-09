@@ -1,5 +1,5 @@
 # Hello!
-I'm a Linux user and open-source enthusiast. I'm not a really professional awesome amazing programmer, but I know the basic languages: HTML, CSS and basic JavaScript.
+I'm a Linux user, open-source enthusiast and beginner web developer.
 ## Software I use and Love
 **🌏 Web Browser:** [Vivaldi](https://vivaldi.com/)  
 **Text Editor:** [Visual Studio Code by Microsoft](https://code.visualstudio.com/)  
