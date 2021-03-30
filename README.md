@@ -1,5 +1,5 @@
 # Hello!
-I'm a beginner front-end web developer and open-source enthusiast.
+I'm a beginner web developer and open-source enthusiast.
 ## Software I use and Love
 **Web Browser:** [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)  
 **Text Editor:** [Visual Studio Code by Microsoft](https://code.visualstudio.com/)   
