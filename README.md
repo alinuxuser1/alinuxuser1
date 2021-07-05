@@ -1,6 +1,7 @@
 # Hello!
 I am...
 - A beginner web developer
+- A [Discord.py bot](https://github.com/opensourze/1bot) developer
 - An open-source enthusiast
 - Privacy-conscious
 ## Software I use and Love
